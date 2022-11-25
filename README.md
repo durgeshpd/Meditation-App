@@ -1,2 +1,3 @@
 # Meditation-App
-View this App -----> https://durgeshpd.github.io/Meditation-App/
+Project Demo Link:
+https://durgeshpd.github.io/Meditation-App/
